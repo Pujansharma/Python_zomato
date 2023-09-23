@@ -1,0 +1,26 @@
+[
+    {
+        "id": "D1",
+        "name": "Spaghetti Carbonara",
+        "price": 12.99,
+        "available": true
+    },
+    {
+        "id": "D2",
+        "name": "Margherita Pizza",
+        "price": 10.99,
+        "available": true
+    },
+    {
+        "id": "D3",
+        "name": "Chicken Alfredo",
+        "price": 14.99,
+        "available": true
+    },
+    {
+        "id": "D5",
+        "name": "Momos",
+        "price": 20.0,
+        "available": true
+    }
+]

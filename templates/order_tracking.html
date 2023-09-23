@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <h1>Order Tracking</h1>
+    <p>Track the status of your order in real-time:</p>
+
+    <div class="order-status">
+        <p>Order #123456</p>
+        <p>Status: Preparing</p>
+        <!-- Display real-time order status updates here -->
+        <div class="order-update">
+            <p>Status Update: Out for delivery</p>
+            <p>Estimated Delivery Time: 30 minutes</p>
+        </div>
+        <div class="order-update">
+            <p>Status Update: Delivered</p>
+            <p>Delivered by: John Doe</p>
+        </div>
+    </div>
+{% endblock %}
